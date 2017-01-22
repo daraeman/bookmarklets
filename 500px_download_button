@@ -1,0 +1,1 @@
+javascript:(function()%7Bdocument.querySelector('.main_container%20.sidebar_region%20.photo_sidebar%20.actions_region').insertAdjacentHTML('afterEnd'%2C%20'%3Ca%20href%3D%22'%20%2B%20document.getElementsByClassName(%20%22photo%22%20)%5B0%5D.src%20%2B%20'%22%20download%20class%3D%22button%20medium%20submit%22%3EDownload%3C%2Fa%3E')%7D)()
